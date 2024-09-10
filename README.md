@@ -13,8 +13,13 @@ You can click the Preview link to take a look at your changes.
 Projects to pinned :
 - SQL Oracle Next Level
 - SQL and PL/SQL app immo
-- Sripting Bash
+- Sripting Shell Bash
 - Java Spring Boot
 - PL/SQL Tutorial
 - Linux Administration
+-->
+
+<!--
+Project to create later :
+- Java, Shell and PL/SQL commom concepts in one tutorial
 -->
