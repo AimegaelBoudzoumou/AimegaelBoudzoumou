@@ -11,12 +11,12 @@ You can click the Preview link to take a look at your changes.
 
 <!--
 Projects to pinned :
-- SQL Oracle Next Level
-- SQL and PL/SQL app immo
-- Sripting Shell Bash
-- Java Spring Boot
-- PL/SQL Tutorial
-- Linux Administration
+- SQL Oracle Next Level     --- Done
+- PL/SQL Tutorial           --- In progress
+- SQL and PL/SQL app immo   --- Future
+- Java Spring Boot          --- Future
+- Sripting Shell Bash       --- Future
+- Linux Administration      --- Future
 -->
 
 <!--
