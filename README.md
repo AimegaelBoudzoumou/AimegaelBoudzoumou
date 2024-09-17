@@ -21,5 +21,18 @@ Projects to pinned :
 
 <!--
 Project to create later :
-- Java, Shell and PL/SQL commom concepts in one tutorial
+
+pl/sql tuto from oracletutorial (in progress)
+
+code sql/pl on inmac job
+
+app immo
+
+"sql 2024 fnac" and "Java Spring"
+
+"pl/sql" and "Scripting Shell"
+
+"pl/sql" and "Linux administration"
+
+Bonus : commom concepts in one tutorial on Java and PL/SQL and Shell
 -->
