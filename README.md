@@ -35,4 +35,18 @@ app immo
 "pl/sql" and "Linux administration"
 
 Bonus : commom concepts in one tutorial on Java and PL/SQL and Shell
+
+Projet de formation (suite):
+
+- English : TOEIC and/or IELTS
+- Français : TEFAQ
+- Certifications SQL et PL/SQL
+- Certfication Oracle
+- Prise de parole en public
+- Linux : Maintenir connaissances
+- DevOps : éventuellement
+- Formation CPI CNAM : éventuellement
+- Autres : 
+  - "ULIS et IKOS pour 3F" 
+
 -->
