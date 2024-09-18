@@ -46,6 +46,7 @@ Projet de formation (suite):
 - Linux : Maintenir connaissances
 - DevOps : éventuellement
 - Formation CPI CNAM : éventuellement
+- ISTQB : formation et/ou certification (https://www.alten.fr/alten-academy/istqb-niveau-foundation/) (https://www.gasq.org/fr/accueil.html) (https://www.udemy.com/course/formation-complete-pour-reussir-la-certification-istqb/?couponCode=OF83024E)
 - Autres : 
   - "ULIS et IKOS pour 3F" 
 
