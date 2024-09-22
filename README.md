@@ -52,4 +52,9 @@ Projet de formation (suite):
 - SAP
 - ITIL
 
+pl/sql:
+- créer un varchar de grande (pouvant accueillir du code HTML/CSS pour une fiche web (Again)
+- Lire un fichier externe (exemple csv, excel, etc)
+- Gérer les images (exemple : insérer un produit ayant un titre, une désignation, une image)
 -->
+
