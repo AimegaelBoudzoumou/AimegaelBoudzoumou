@@ -42,7 +42,7 @@ Projet de formation (suite):
 - Français : TEFAQ
 - Certifications SQL et PL/SQL
 - Certfication Oracle
-- Certification TEst ITSQB
+- Certification Test ITSQB
 - Prise de parole en public
 - Linux : Maintenir connaissances
 - DevOps : éventuellement
@@ -52,6 +52,9 @@ Projet de formation (suite):
   - "ULIS et IKOS pour 3F"
 - SAP
 - ITIL
+
+Certifications (janvier 2025 à juin 2025): TOEIC, IELTS, SQL, PL/SQL, ITSQB
+Certifications (juillet 2025 à septembre 2025): ITIL
 
 pl/sql:
 - créer un varchar de grande (pouvant accueillir du code HTML/CSS pour une fiche web (Again)
