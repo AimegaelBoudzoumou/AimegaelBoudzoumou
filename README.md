@@ -42,6 +42,7 @@ Projet de formation (suite):
 - Français : TEFAQ
 - Certifications SQL et PL/SQL
 - Certfication Oracle
+- Certification TEst ITSQB
 - Prise de parole en public
 - Linux : Maintenir connaissances
 - DevOps : éventuellement
