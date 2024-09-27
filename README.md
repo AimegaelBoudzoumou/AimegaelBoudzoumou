@@ -63,3 +63,8 @@ pl/sql:
 - Pouvoir enregistrer un objet en BDD
 -->
 
+<!--
+Autres projets :
+Application qui regroupe les versets Biblique par thème (exemple : liste des versets sur l'impudicité)
+-->
+
