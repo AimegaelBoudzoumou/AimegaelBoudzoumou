@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AimegaelBoudzoumou
-- 💞️ I’m looking to collaborate on these technlogies : SQL, PL/SQL, Linux, Shell
-- 👀 I have also knowleges on Javan SpringBoot, Tests
+- 💞️ I’m looking to collaborate on these technologies : SQL, PL/SQL, Linux, Shell
+- 👀 I have also knowleges on Java, SpringBoot, Tests
 - 📫 How to reach me gaelboudzoumou1991@gmail.com
 <!-- 👀 I’m interested in Linux, Java, SQL and PL/SQL jobs -->
 <!-- 🌱 I’m currently learning Shell, PL/SQL and SpringBoot -->
