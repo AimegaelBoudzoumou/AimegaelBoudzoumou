@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AimegaelBoudzoumou
-<!-- 👀 I’m interested in Linux, Java, SQL and PL/SQL jobs -->
-<!-- 🌱 I’m currently learning Shell, PL/SQL and SpringBoot -->
 - 💞️ I’m looking to collaborate on these technlogies : SQL, PL/SQL, Linux, Shell
 - 👀 I have also knowleges on Java and SpringBoot
 - 📫 How to reach me gaelboudzoumou1991@gmail.com
+<!-- 👀 I’m interested in Linux, Java, SQL and PL/SQL jobs -->
+<!-- 🌱 I’m currently learning Shell, PL/SQL and SpringBoot -->
 
 <!---
 AimegaelBoudzoumou/AimegaelBoudzoumou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
