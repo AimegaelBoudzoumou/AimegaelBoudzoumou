@@ -68,3 +68,15 @@ Autres projets :
 Application qui regroupe les versets Biblique par thème (exemple : liste des versets sur l'impudicité)
 -->
 
+<!--
+Formation 2025 :
+Janvier à juin : Test Cnam
+Anglais IELTS/TOEIC, Francais TEFAQ
+Linux
+Oracle Administration
+Certifications : SQL, PL/SQL, Test ITSQB
+
+Juillet à septembre :
+ITIL,
+-->
+
