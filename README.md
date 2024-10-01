@@ -81,3 +81,8 @@ Juillet à septembre :
 ITIL,
 -->
 
+<!-- Cours à dispenser :
+- L'éthique dans le métier de gestionnaire immobilier
+- Base de données : ...
+- Qualité : gestion des process métier et mise en place d'un intranet dédié au process métier
+-->
