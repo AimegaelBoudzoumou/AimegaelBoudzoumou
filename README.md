@@ -86,3 +86,18 @@ ITIL,
 - Base de données : ...
 - Qualité : gestion des process métier et mise en place d'un intranet dédié au process métier
 -->
+
+<!--
+LM : candidature spontanée:
+Vous:
+Parler de l'entreprise et de ma candidature (dire pourquoi je souhaite intégrer cette entreprise : domaine, secteur d'activité, technologies utilisées, etc.)
+
+Moi: ce que je souhaite faire (approche technologie plutôt que poste/métier)
+Intéressé par SQL et PL/SQL
+J'ai des connaissances en Java (Spring Boot) et en Linux (commande GNU et script Shell)
+Je suis ouvert à recevoir une formation, à votre besoin
+
+Nous:
+Conclure par une proposition de rencontre
+Formule de politesse
+-->
