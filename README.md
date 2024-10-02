@@ -39,6 +39,17 @@ Bonus : commom concepts in one tutorial on Java and PL/SQL and Shell
 
 Projet de formation (suite):
 
+Octobre 2024 à Décembre 224:
+
+Janvier 2025 à Juin 2025 :
+
+Juillet 2025 à Août 2025:
+
+Septembre 2025 à Décembre 2025 :
+
+------------------------------------------
+
+
 - English : TOEIC and/or IELTS
 - Français : TEFAQ
 - Certifications SQL et PL/SQL
@@ -52,7 +63,7 @@ Projet de formation (suite):
 - Autres : 
   - "ULIS et IKOS pour 3F"
 - SAP
-- ITIL
+- ITIL, PSM1
 
 Certifications (janvier 2025 à juin 2025): TOEIC, IELTS, SQL, PL/SQL, ITSQB
 Certifications (juillet 2025 à septembre 2025): ITIL
