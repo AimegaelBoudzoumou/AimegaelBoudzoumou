@@ -37,36 +37,24 @@ app immo
 
 Bonus : commom concepts in one tutorial on Java and PL/SQL and Shell
 
-Projet de formation (suite):
+Projet de formation (suite) 2024/2025:
 
-Octobre 2024 à Décembre 224:
+Octobre 2024 à Décembre 2024:
+SQL, PL/SQL, Linux Shell, Java
 
 Janvier 2025 à Juin 2025 :
+TOEIC/IELTS, TEFAQ, CNAM Cours Test, Certifications (PL/SQL, SQL, ISTQB (ALten, GASQ, Udemy), Oracle) 
 
 Juillet 2025 à Août 2025:
+ITIL, PSM1, Prise de parole en public, SAP, "ULIS et IKOS pour 3F"
 
 Septembre 2025 à Décembre 2025 :
+CNAM Cours SIRH/Paie
+
+Divers/Eventuellement :
+DevOps, 
 
 ------------------------------------------
-
-
-- English : TOEIC and/or IELTS
-- Français : TEFAQ
-- Certifications SQL et PL/SQL
-- Certfication Oracle
-- Certification Test ITSQB
-- Prise de parole en public
-- Linux : Maintenir connaissances
-- DevOps : éventuellement
-- Formation CPI CNAM : éventuellement
-- ISTQB : formation et/ou certification (https://www.alten.fr/alten-academy/istqb-niveau-foundation/) (https://www.gasq.org/fr/accueil.html) (https://www.udemy.com/course/formation-complete-pour-reussir-la-certification-istqb/?couponCode=OF83024E)
-- Autres : 
-  - "ULIS et IKOS pour 3F"
-- SAP
-- ITIL, PSM1
-
-Certifications (janvier 2025 à juin 2025): TOEIC, IELTS, SQL, PL/SQL, ITSQB
-Certifications (juillet 2025 à septembre 2025): ITIL
 
 pl/sql:
 - créer un varchar de grande (pouvant accueillir du code HTML/CSS pour une fiche web (Again)
@@ -78,18 +66,6 @@ pl/sql:
 <!--
 Autres projets :
 Application qui regroupe les versets Biblique par thème (exemple : liste des versets sur l'impudicité)
--->
-
-<!--
-Formation 2025 :
-Janvier à juin : Test Cnam
-Anglais IELTS/TOEIC, Francais TEFAQ
-Linux
-Oracle Administration
-Certifications : SQL, PL/SQL, Test ITSQB
-
-Juillet à septembre :
-ITIL,
 -->
 
 <!-- Cours à dispenser :
