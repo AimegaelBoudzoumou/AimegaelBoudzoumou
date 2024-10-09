@@ -72,6 +72,7 @@ Application qui regroupe les versets Biblique par thème (exemple : liste des ve
 - L'éthique dans le métier de gestionnaire immobilier
 - Base de données : ...
 - Qualité : gestion des process métier et mise en place d'un intranet dédié au process métier
+- Initiation à l'informatique : savoir naviguer dans un site internet, 
 -->
 
 <!--
