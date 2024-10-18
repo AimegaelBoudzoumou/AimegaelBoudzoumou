@@ -43,13 +43,14 @@ Octobre 2024 à Décembre 2024:
 SQL, PL/SQL, Linux Shell, Java
 
 Janvier 2025 à Juin 2025 :
-TOEIC/IELTS, TEFAQ, CNAM Cours Test, Certifications (PL/SQL, SQL, ISTQB (ALten, GASQ, Udemy), Oracle) 
+TOEIC/IELTS, TEFAQ, CNAM Cours Test, Certifications (PL/SQL, SQL, ISTQB (ALten, GASQ, Udemy), Oracle, Base de données au CNAM) 
 
 Juillet 2025 à Août 2025:
 ITIL, PSM1, Prise de parole en public, SAP, "ULIS et IKOS pour 3F"
 
 Septembre 2025 à Décembre 2025 :
 CNAM Cours SIRH/Paie
+CNAM Cours base de données 
 
 Divers/Eventuellement :
 DevOps, 
