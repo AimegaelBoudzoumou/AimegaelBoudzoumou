@@ -43,7 +43,8 @@ Octobre 2024 à Décembre 2024:
 SQL, PL/SQL, Linux Shell, Java
 
 Janvier 2025 à Juin 2025 :
-TOEIC/IELTS, TEFAQ, CNAM Cours Test, Certifications (PL/SQL, SQL, ISTQB (ALten, GASQ, Udemy), Oracle, Base de données au CNAM) 
+TOEIC/IELTS, TEFAQ, CNAM Cours Test, Certifications (PL/SQL, SQL, ISTQB (ALten, GASQ, Udemy), Oracle, Base de données au CNAM)
+Préparer l'entrée dans la formation du-data-analyst - https://www.cyu.fr/formation/trouver-sa-formation/formation-professionnelle-et-continue/diplomes-universitaires-du-specifiques/du-data-analyst#admission
 
 Juillet 2025 à Août 2025:
 ITIL, PSM1, Prise de parole en public, SAP, "ULIS et IKOS pour 3F"
