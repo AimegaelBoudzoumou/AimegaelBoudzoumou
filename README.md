@@ -34,24 +34,29 @@ app immo
 "pl/sql" and "Scripting Shell"
 
 "pl/sql" and "Linux administration"
+ 
+Bonus : commom concepts in one tutorial on Java and PL/SQL and Shell and Pythn
 
-Bonus : commom concepts in one tutorial on Java and PL/SQL and Shell
-
-Projet de formation (suite) 2024/2025:
+Projet de formation (suite) 2024/2025 :
 
 Octobre 2024 à Décembre 2024:
-SQL, PL/SQL, Linux Shell, Java
+SQL, PL/SQL, Linux Shell, Java, Python
 
 Janvier 2025 à Juin 2025 :
-TOEIC/IELTS, TEFAQ, CNAM Cours Test, Certifications (PL/SQL, SQL, ISTQB (ALten, GASQ, Udemy), Oracle, Base de données au CNAM)
-Préparer l'entrée dans la formation du-data-analyst - https://www.cyu.fr/formation/trouver-sa-formation/formation-professionnelle-et-continue/diplomes-universitaires-du-specifiques/du-data-analyst#admission
 
-Juillet 2025 à Août 2025:
+Maintenir les connaissances dans les technos SQL, PL/SQL, Linux Shell, Java, Python
+CPI/GPI au Cnam
+TOEIC/IELTS, TEFAQ, CNAM Cours Test, Certifications (PL/SQL, SQL, ISTQB (ALten, GASQ, Udemy), Oracle, Base de données au CNAM)
+-Préparer l'entrée dans la formation du-data-analyst - https://www.cyu.fr/formation/trouver-sa-formation/formation-professionnelle-et-continue/diplomes-universitaires-du-specifiques/du-data-analyst#admission (formation d'un an à partir de mai 2025)-
+Préparer l'entrée à la formation Test et Validation du logiciel (https://sup-fc.univ-fcomte.fr/fichemasterinformatiqueITVL)
+
+Juillet 2025 à Août 2025 :
 ITIL, PSM1, Prise de parole en public, SAP, "ULIS et IKOS pour 3F"
 
 Septembre 2025 à Décembre 2025 :
 CNAM Cours SIRH/Paie
-CNAM Cours base de données 
+CNAM Cours base de données
+Formation Test & Validation logiciel
 
 Divers/Eventuellement :
 DevOps, 
@@ -68,6 +73,7 @@ pl/sql:
 <!--
 Autres projets :
 Application qui regroupe les versets Biblique par thème (exemple : liste des versets sur l'impudicité)
+Applications Python qui permet aux usagers d'être informés de la baisse de prix (promotion) d'un article dans un site e-commerce
 -->
 
 <!-- Cours à dispenser :
