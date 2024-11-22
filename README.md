@@ -4,7 +4,12 @@
 - 📫 How to reach me gaelboudzoumou1991@gmail.com
 <!-- 👀 I’m interested in Linux, Java, SQL and PL/SQL jobs -->
 <!-- 🌱 I’m currently learning Shell, PL/SQL and SpringBoot -->
-
+<!--Project/Repositories to pin : 
+- Shell Unix Linux
+Python
+Java
+Store
+-->
 <!---
 AimegaelBoudzoumou/AimegaelBoudzoumou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
