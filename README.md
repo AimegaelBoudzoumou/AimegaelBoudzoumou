@@ -56,7 +56,7 @@ Maintenir les connaissances dans les technos SQL, PL/SQL, Linux Shell, Java, Pyt
 CPI/GPI au Cnam
 CNAM Cours SIRH/Paie
 TOEIC/IELTS, TEFAQ, CNAM Cours Test, Certifications (PL/SQL, SQL, ISTQB (ALten, GASQ, Udemy), Oracle, Base de données au CNAM)
--Préparer l'entrée dans la formation du-data-analyst - https://www.cyu.fr/formation/trouver-sa-formation/formation-professionnelle-et-continue/diplomes-universitaires-du-specifiques/du-data-analyst#admission (formation d'un an à partir de mai 2025)-
+- Préparer l'entrée dans la formation du-data-analyst - https://www.cyu.fr/formation/trouver-sa-formation/formation-professionnelle-et-continue/diplomes-universitaires-du-specifiques/du-data-analyst#admission (formation d'un an à partir de mai 2025)-
 Préparer l'entrée à la formation Test et Validation du logiciel (https://sup-fc.univ-fcomte.fr/fichemasterinformatiqueITVL)
 
 Juillet 2025 à Août 2025 :
