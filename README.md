@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AimegaelBoudzoumou
-- 💞️ I’m looking to collaborate on these technologies : SQL, Python and Dataviz
+- 💞️ I’m looking to collaborate on these technologies : SQL, Python and Dataviz (Tableau, PowerBI)
 - 👀 I have also knowleges on PL/SQL, Linux Shell and Java (SpringBoot)
 - 📫 How to reach me gaelboudzoumou1991@gmail.com
 <!-- 👀 I’m interested in Linux, Testing Software, Java, SQL and PL/SQL jobs -->
