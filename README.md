@@ -22,20 +22,25 @@ You can click the Preview link to take a look at your changes.
 Projects to pinned :
 - Store-SQL
 - Data-Analyst-Bootcamp
-- Python Django et/ou Python API
+- Python API
 - Bash-Shell-Scripting-Tutorial-Full-Course
 
-Others :
+Others projects (non pinned) :
 - Pyton pour la Data Sciences : https://www.fnac.com/a17574231/Amandine-Velt-Python-pour-la-Data-Science-Analysez-vos-donnees-avec-NumPy-Pandas-Matplotlib-et-Seaborn-Livre
 - Java Spring Boot
 - Python Django
 - Python API : 
-https://www.geeksforgeeks.org/python-api-tutorial-getting-started-with-apis/
-https://www.data-bird.co/blog/api-rest
-https://www.dataquest.io/blog/api-in-python/
-https://rtavenar.github.io/poly_python/content/api.html
-https://blog.postman.com/how-to-build-an-api-in-python/
-https://www.udemy.com/courses/search/?src=ukw&q=api+python
+   https://www.geeksforgeeks.org/python-api-tutorial-getting-started-with-apis/
+   https://www.data-bird.co/blog/api-rest
+   https://www.dataquest.io/blog/api-in-python/
+   https://rtavenar.github.io/poly_python/content/api.html
+   https://blog.postman.com/how-to-build-an-api-in-python/
+   https://www.udemy.com/courses/search/?src=ukw&q=api+python
+- Modélisation décisionnelle
+- Alteryx
+- Snowflake, 
+- Talend
+- Jira
 -->
 
 <!--
@@ -44,7 +49,6 @@ Project to create later :
 Modélisation décisionnelle
 https://www.fnac.com/a10561753/Thibault-Bourcy-Modelisation-decisionnelle
 https://www.fnac.com/a13317786/Mohamed-Touzene-Systemes-decisionnels-et-modelistation-multidimensionnelle
-
 
 pl/sql tuto from oracletutorial (in progress)
 
