@@ -11,7 +11,7 @@ You can discover my work here :
 
 Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
 
-[Link web - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
+[GitHub weblink - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
 ## Data Analyst Bootcamp
 
