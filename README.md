@@ -19,7 +19,7 @@ Topics : MySQL and SQL. Excel. Tableau. Power BI. Python. Pandas. Azur. AWS
 
 https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp
 
-## [## [Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+## [Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
 https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course
 
