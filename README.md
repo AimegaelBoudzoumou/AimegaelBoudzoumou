@@ -9,21 +9,19 @@ You can discover my work here :
 
 ## [Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
-Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL
-
-https://github.com/AimegaelBoudzoumou/Store-SQL
+Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
 
 [Link web - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
 ## [Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
-Topics : MySQL and SQL. Excel. Tableau. Power BI. Python. Pandas. Azur. AWS
+Topics : MySQL and SQL. Excel. Tableau. Power BI. Python. Pandas. Azur. AWS.
 
-https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp
+[Link web - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
 ## [Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
-https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course
+[Link web - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
 ## [All projects ...](https://github.com/AimegaelBoudzoumou?tab=repositories)
 
