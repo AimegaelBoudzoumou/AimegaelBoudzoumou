@@ -7,9 +7,11 @@
 
 You can discover my work here :
 
-[Projet Store](https://github.com/AimegaelBoudzoumou/Store-SQL)
+## 1.[Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
-Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données)
+Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL
+
+
 
 <!--
 4 aspects d'utilisation de SQL :
