@@ -5,6 +5,15 @@
 <!-- 👀 I’m interested in Linux, Testing Software, Java, SQL and PL/SQL jobs -->
 <!-- 🌱 I’m currently learning Shell, PL/SQL and SpringBoot -->
 
+<!--
+4 aspects d'utilisation de SQL :
+
+1/ Extraire les produits à améliorer
+2/ Chargement de données (cas des produits Apple pour lesquels j'intègre régulièrmeent du contenu marketing en masse)
+3/ Faire des statistiques sur les produits créés : par marque, gamme, catégorie, période (mois, trimestre, semestre, année), etc.
+4/ Besoins divers
+-->
+
 <!-- Project/Repositories to pin : 
 - Shell Unix Linux
 - Python
