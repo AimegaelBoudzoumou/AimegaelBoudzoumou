@@ -13,7 +13,7 @@ Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de don
 
 https://github.com/AimegaelBoudzoumou/Store-SQL
 
-[Link web](https://github.com/AimegaelBoudzoumou/Store-SQL)
+[Link web - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
 ## [Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
