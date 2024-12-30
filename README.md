@@ -7,7 +7,7 @@
 
 You can discover my work here :
 
-## 1.[Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
+## [Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
 Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL
 
