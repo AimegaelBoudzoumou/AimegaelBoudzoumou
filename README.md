@@ -5,6 +5,11 @@
 <!-- 👀 I’m interested in Linux, Testing Software, Java, SQL and PL/SQL jobs -->
 <!-- 🌱 I’m currently learning Shell, PL/SQL and SpringBoot -->
 
+You can discover my work here :
+
+(Projet Store)[https://github.com/AimegaelBoudzoumou/Store-SQL]
+Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données)
+
 <!--
 4 aspects d'utilisation de SQL :
 
