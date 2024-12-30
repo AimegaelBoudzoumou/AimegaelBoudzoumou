@@ -7,20 +7,19 @@
 
 You can discover my work here :
 
-## [Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 ## Store-SQL
 
 Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
 
 [Link web - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
-## [Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
+## Data Analyst Bootcamp
 
 Topics : MySQL and SQL. Excel. Tableau. Power BI. Python. Pandas. Azur. AWS.
 
 [Link web - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
-## [Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+## Bash Shell Scripting Tutorial
 
 [Link web - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
