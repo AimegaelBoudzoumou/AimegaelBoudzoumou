@@ -23,6 +23,10 @@ https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp
 
 https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course
 
+## Others projects
+
+https://github.com/AimegaelBoudzoumou?tab=repositories
+
 <!--
 4 aspects d'utilisation de SQL :
 
