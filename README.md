@@ -17,15 +17,16 @@ Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de don
 
 Topics : MySQL and SQL. Excel. Tableau. Power BI. Python. Pandas. Azur. AWS.
 
-[Link web - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
+[GitHub weblink - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
 ## Bash Shell Scripting Tutorial
 
-[Link web - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+[GitHub weblink - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
-## [All projects ...](https://github.com/AimegaelBoudzoumou?tab=repositories)
+## All projects ...
 
-https://github.com/AimegaelBoudzoumou?tab=repositories
+[GitHub weblink - All projects](https://github.com/AimegaelBoudzoumou?tab=repositories)
+
 
 <!--
 4 aspects d'utilisation de SQL :
