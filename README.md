@@ -25,7 +25,7 @@ Topics : MySQL and SQL. Excel. Tableau. Power BI. Python. Pandas. Azur. AWS.
 
 [ENI weblink - Python pour la Data Science](https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300?gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95QzsCxNbplJ0SgCFpRIKefAXFUnWtBllBIBpMKxBMc7KSelGiVbHFwvAaAjHtEALw_wcB)
 
-Topics : Python, NumPy, Pandas, Matplotlib et Seaborn
+Topics : Python, NumPy, Pandas, Matplotlib, Seaborn
 
 [GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
