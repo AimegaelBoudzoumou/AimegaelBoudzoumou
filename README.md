@@ -29,6 +29,14 @@ Topics : Python, NumPy, Pandas, Matplotlib, Seaborn
 
 [GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
+## From Udemy
+
+## From Coursera
+
+## From Datacamp
+
+## From FreecodeCamp
+
 ## Bash Shell Scripting Tutorial
 
 [GitHub weblink - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
