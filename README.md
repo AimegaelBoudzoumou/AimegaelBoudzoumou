@@ -21,13 +21,13 @@ Topics : MySQL and SQL. Excel. Tableau. Power BI. Python. Pandas. Azur. AWS.
 
 ## Python pour la Data Science - Analysez vos données avec NumPy, Pandas, Matplotlib et Seaborn
 
-Lien Fnac : https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300?gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95QzsCxNbplJ0SgCFpRIKefAXFUnWtBllBIBpMKxBMc7KSelGiVbHFwvAaAjHtEALw_wcB
+[FNAC weblink - Python pour la Data Science](https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300?gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95QzsCxNbplJ0SgCFpRIKefAXFUnWtBllBIBpMKxBMc7KSelGiVbHFwvAaAjHtEALw_wcB)
 
-Lien Eni : https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300?gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95QzsCxNbplJ0SgCFpRIKefAXFUnWtBllBIBpMKxBMc7KSelGiVbHFwvAaAjHtEALw_wcB
+[ENI weblink - Python pour la Data Science](https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300?gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95QzsCxNbplJ0SgCFpRIKefAXFUnWtBllBIBpMKxBMc7KSelGiVbHFwvAaAjHtEALw_wcB)
 
 Topics : Python, NumPy, Pandas, Matplotlib et Seaborn
 
-[GitHub weblink - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
+[GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
 ## Bash Shell Scripting Tutorial
 
