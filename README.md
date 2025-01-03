@@ -9,19 +9,19 @@ You can discover my work here :
 
 ## Store-SQL
 
-Topics : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
+Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
 
 [GitHub weblink - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
 ## Data Analyst Bootcamp
 
-Topics : MySQL and SQL. Excel. Tableau. Power BI. Python. Pandas. Azur. AWS.
+Topics Covered : MySQL and SQL. Excel. Tableau. Power BI. Python. Pandas. Azur. AWS.
 
 [GitHub weblink - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
 ## Python pour la Data Science - Analysez vos données avec NumPy, Pandas, Matplotlib et Seaborn
 
-Topics : Python, NumPy, Pandas, Matplotlib, Seaborn
+Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
 
 [GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
