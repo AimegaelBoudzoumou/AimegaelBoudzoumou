@@ -34,6 +34,8 @@ Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
 ## From Coursera
 [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst?adgroupid=&adposition=&adpostion=&aid=true&campaignid=20858198824&creativeid=&device=c&devicemodel=&gad_source=1&gclid=Cj0KCQiAst67BhCEARIsAKKdWOmjU7xilib_8zAXXt0xjhnAVHa_pXSmyELLuHiScx4-kpydG6wzGNMaAiUMEALw_wcB&hide_mobile_promo&keyword=&matchtype=&network=x&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&utm_medium=sem&utm_source=gg)
 
+[Analyse de données Google Certificat Professionnel](https://www.coursera.org/professional-certificates/google-data-analytics)
+
 ## From Datacamp
 
 ## From FreecodeCamp
