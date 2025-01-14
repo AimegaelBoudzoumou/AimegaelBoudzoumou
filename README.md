@@ -37,6 +37,47 @@ Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 
 [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#)
 
+## 6. Business Intelligence avec Python - Créez vos outils BI de A à Z
+
+[GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+
+## 6. Bash Shell Scripting Tutorial
+
+[GitHub weblink - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+
+## All projects ...
+
+[GitHub weblink - All projects](https://github.com/AimegaelBoudzoumou?tab=repositories)
+
+
+<!--
+Projects to pinned :
+- Store-SQL
+- Data Analyst Bootcamp
+- Python pour la Data Science - Analysez vos données
+- Le langage SQL pour la Data Science
+- Statistiques descriptives avec Python
+- Business Intelligence avec Python - Créez vos outils BI de A à Z
+
+Others projects (non pinned) :
+- Bash-Shell-Scripting-Tutorial-Full-Course
+- Pyton pour la Data Sciences : https://www.fnac.com/a17574231/Amandine-Velt-Python-pour-la-Data-Science-Analysez-vos-donnees-avec-NumPy-Pandas-Matplotlib-et-Seaborn-Livre
+- Java Spring Boot
+- Python Django
+- Python API : 
+   https://www.geeksforgeeks.org/python-api-tutorial-getting-started-with-apis/
+   https://www.data-bird.co/blog/api-rest
+   https://www.dataquest.io/blog/api-in-python/
+   https://rtavenar.github.io/poly_python/content/api.html
+   https://blog.postman.com/how-to-build-an-api-in-python/
+   https://www.udemy.com/courses/search/?src=ukw&q=api+python
+- Modélisation décisionnelle
+- Alteryx
+- Snowflake, 
+- Talend
+- Jira
+-->
+
 <!--
 ## From Udemy
 
@@ -49,14 +90,6 @@ Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 
 ## From FreecodeCamp
 -->
-
-## 6. Bash Shell Scripting Tutorial
-
-[GitHub weblink - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
-
-## All projects ...
-
-[GitHub weblink - All projects](https://github.com/AimegaelBoudzoumou?tab=repositories)
 
 <!-- Future traning as CB : 
 https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/diplome-d-universite-DU/diplome-d-universite-KBVXM363/diplome-d-universite-sorbonne-data-analytics-KPMK3V7Z.html
@@ -85,44 +118,14 @@ https://idmc.univ-lorraine.fr/courses/certification-data-scientist/
 4/ Besoins divers
 -->
 
-<!-- Project/Repositories to pin : 
-- Shell Unix Linux
-- Python
-- Java
-- Store
-- Test
--->
-
 <!---
 AimegaelBoudzoumou/AimegaelBoudzoumou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <!--
-Projects to pinned :
-- Store-SQL
-- Data-Analyst-Bootcamp
-- Python API
-- Bash-Shell-Scripting-Tutorial-Full-Course
-
-Others projects (non pinned) :
-- Pyton pour la Data Sciences : https://www.fnac.com/a17574231/Amandine-Velt-Python-pour-la-Data-Science-Analysez-vos-donnees-avec-NumPy-Pandas-Matplotlib-et-Seaborn-Livre
-- Java Spring Boot
-- Python Django
-- Python API : 
-   https://www.geeksforgeeks.org/python-api-tutorial-getting-started-with-apis/
-   https://www.data-bird.co/blog/api-rest
-   https://www.dataquest.io/blog/api-in-python/
-   https://rtavenar.github.io/poly_python/content/api.html
-   https://blog.postman.com/how-to-build-an-api-in-python/
-   https://www.udemy.com/courses/search/?src=ukw&q=api+python
-- Modélisation décisionnelle
-- Alteryx
-- Snowflake, 
-- Talend
-- Jira
--->
-
+Livre sur Python dans un contexte de Business Intelligence
+https://www.editions-eni.fr/livre/business-intelligence-avec-python-creez-vos-outils-bi-de-a-a-z-9782409048043
 <!--
 Project to create later :
 
