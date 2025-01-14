@@ -15,7 +15,7 @@ Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnair
 
 ## Data Analyst Bootcamp
 
-Topics Covered : MySQL and SQL. Excel. Tableau. Power BI. Python. Pandas. Azur. AWS.
+Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS.
 
 [GitHub weblink - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
@@ -25,10 +25,23 @@ Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
 
 [GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
+## Le langage SQL pour la Data Science
+
+-- Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
+
+<!--
 [FNAC weblink - Python pour la Data Science](https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300?gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95QzsCxNbplJ0SgCFpRIKefAXFUnWtBllBIBpMKxBMc7KSelGiVbHFwvAaAjHtEALw_wcB)
+-->
 
-[ENI weblink - Python pour la Data Science](https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300?gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95QzsCxNbplJ0SgCFpRIKefAXFUnWtBllBIBpMKxBMc7KSelGiVbHFwvAaAjHtEALw_wcB)
+[GitHub weblink - Le langage SQL pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
+## Statistiques descriptives avec Python
+
+-- Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
+
+[GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#)
+
+<!--
 ## From Udemy
 
 ## From Coursera
@@ -39,6 +52,7 @@ Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
 ## From Datacamp
 
 ## From FreecodeCamp
+-->
 
 ## Bash Shell Scripting Tutorial
 
