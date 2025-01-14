@@ -35,8 +35,6 @@ Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
 
 ## 5. Statistiques descriptives avec Python
 
-Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
-
 [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#)
 
 <!--
