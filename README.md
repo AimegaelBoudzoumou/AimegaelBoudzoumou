@@ -66,6 +66,7 @@ Others projects (non pinned) :
 - Snowflake, 
 - Talend
 - Jira
+- Dataiku
 -->
 
 <!--
