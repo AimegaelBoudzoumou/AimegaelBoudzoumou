@@ -54,7 +54,7 @@ Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
 ## From FreecodeCamp
 -->
 
-## Bash Shell Scripting Tutorial
+## 6. Bash Shell Scripting Tutorial
 
 [GitHub weblink - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
