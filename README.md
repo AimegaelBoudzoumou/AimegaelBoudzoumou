@@ -7,55 +7,36 @@
 
 You can discover my work here :
 
-## 1. Store-SQL
-
-Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
-
-[GitHub weblink - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
-
-## 2. Data Analyst Bootcamp
+## 1. Data Analyst Bootcamp
 
 Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS.
 
 [GitHub weblink - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
-## 3. Python pour la Data Science - Analysez vos données
+## 2. Store-SQL
+Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
+[GitHub weblink - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
-Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
-
-[GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
-
-## 4. Le langage SQL pour la Data Science
-
-<!--
-[FNAC weblink - Python pour la Data Science](https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300?gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95QzsCxNbplJ0SgCFpRIKefAXFUnWtBllBIBpMKxBMc7KSelGiVbHFwvAaAjHtEALw_wcB)
--->
-
+## 3. Le langage SQL pour la Data Science
 [GitHub weblink - Le langage SQL pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
-## 5. Statistiques descriptives avec Python
+## 3. Python pour la Data Science - Analysez vos données
+Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
+[GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
+## 5. Statistiques descriptives avec Python
 [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#)
 
 ## 6. Business Intelligence avec Python - Créez vos outils BI de A à Z
-
 [GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
 ## 7. Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord
-
 [GitHub weblink - Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
 ## 8. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
-
 [GitHub weblink - Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
-<!--## 6. Bash Shell Scripting Tutorial
-
-[GitHub weblink - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
--->
-
 ## All projects ...
-
 [GitHub weblink - All projects](https://github.com/AimegaelBoudzoumou?tab=repositories)
 
 
