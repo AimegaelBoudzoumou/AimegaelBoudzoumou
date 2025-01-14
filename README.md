@@ -7,13 +7,13 @@
 
 You can discover my work here :
 
-## Store-SQL
+## 1. Store-SQL
 
 Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
 
 [GitHub weblink - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
-## Data Analyst Bootcamp
+## 2. Data Analyst Bootcamp
 
 Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS.
 
