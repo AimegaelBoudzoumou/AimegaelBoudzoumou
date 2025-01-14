@@ -21,7 +21,7 @@ Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS.
 
 ## 3. Python pour la Data Science - Analysez vos données
 
-Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
+Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 
 [GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
