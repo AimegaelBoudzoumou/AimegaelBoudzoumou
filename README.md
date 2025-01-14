@@ -19,7 +19,7 @@ Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS.
 
 [GitHub weblink - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
-## Python pour la Data Science - Analysez vos données avec NumPy, Pandas, Matplotlib et Seaborn
+## Python pour la Data Science - Analysez vos données
 
 Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
 
