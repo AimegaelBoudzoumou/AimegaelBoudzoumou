@@ -20,21 +20,21 @@ Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnair
 ## 3. Le langage SQL pour la Data Science
 [GitHub weblink - Le langage SQL pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
-## 4. Python pour la Data Science - Analysez vos données
+## 4. Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord
+[GitHub weblink - Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+
+## 5. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
+[GitHub weblink - Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+
+## 6. Python pour la Data Science - Analysez vos données
 Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 [GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
-## 5. Statistiques descriptives avec Python
+## 7. Statistiques descriptives avec Python
 [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#)
 
-## 6. Business Intelligence avec Python - Créez vos outils BI de A à Z
+## 8. Business Intelligence avec Python - Créez vos outils BI de A à Z
 [GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
-
-## 7. Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord
-[GitHub weblink - Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
-
-## 8. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
-[GitHub weblink - Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
 ## All projects ...
 [GitHub weblink - All projects](https://github.com/AimegaelBoudzoumou?tab=repositories)
