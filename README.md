@@ -20,7 +20,7 @@ Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnair
 ## 3. Le langage SQL pour la Data Science
 [GitHub weblink - Le langage SQL pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
-## 3. Python pour la Data Science - Analysez vos données
+## 4. Python pour la Data Science - Analysez vos données
 Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 [GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
