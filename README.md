@@ -41,9 +41,10 @@ Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 
 [GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
-## 6. Bash Shell Scripting Tutorial
+<!--## 6. Bash Shell Scripting Tutorial
 
 [GitHub weblink - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+-->
 
 ## All projects ...
 
