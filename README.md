@@ -27,8 +27,6 @@ Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
 
 ## 4. Le langage SQL pour la Data Science
 
-Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
-
 <!--
 [FNAC weblink - Python pour la Data Science](https://www.editions-eni.fr/livre/python-pour-la-data-science-analysez-vos-donnees-avec-numpy-pandas-matplotlib-et-seaborn-livre-avec-complement-video-visualisation-de-donnees-9782409039300?gad_source=1&gclid=Cj0KCQiAyc67BhDSARIsAM95QzsCxNbplJ0SgCFpRIKefAXFUnWtBllBIBpMKxBMc7KSelGiVbHFwvAaAjHtEALw_wcB)
 -->
