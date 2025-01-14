@@ -41,6 +41,14 @@ Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 
 [GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
+## 7. Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord
+
+[GitHub weblink - Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+
+## 8. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
+
+[GitHub weblink - Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+
 <!--## 6. Bash Shell Scripting Tutorial
 
 [GitHub weblink - Bash Shell Scripting Tutorial](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
