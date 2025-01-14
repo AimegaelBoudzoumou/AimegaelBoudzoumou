@@ -5,23 +5,6 @@
 <!-- 👀 I’m interested in Linux, Testing Software, Java, SQL and PL/SQL jobs -->
 <!-- 🌱 I’m currently learning Shell, PL/SQL and SpringBoot -->
 
-<!-- Future traning as CB : 
-https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/diplome-d-universite-DU/diplome-d-universite-KBVXM363/diplome-d-universite-sorbonne-data-analytics-KPMK3V7Z.html
-
-https://formations.umontpellier.fr/fr/formations/diplome-universite-niv-form-bac-4-UE/diplome-d-universite-big-data-data-science-et-analyse-des-risques-sous-python-JHVOG40I.html
-
-https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist#inscriptions
--- vérifier si la formation pet être suivie à distance
-
-https://www.univ-montp3.fr/fr/formations/offre-de-formation/diplome-d-universite-niveau-master-UD/sciences-humaines-et-sociales-SHS/diplome-d-universite-data-scientist-JHKKIH5E.html 
--- vérifier si la formation pet être suivie à distance
-
-https://professional-education-gl.mit.edu/mit-applied-data-science-course?&utm_source=google&utm_medium=search&utm_campaign=ADSB_Int_Search_Program_Broad_EU&campaign_id=15460219899&adgroup_id=131363090395&ad_id=566440175257&utm_target=kwd-27110958258&Keyword=data%20science%20program&placement=&gad_source=1&gclid=Cj0KCQiAst67BhCEARIsAKKdWOm-OuBuEGCLDQr8UwsamBe3KFSdnp0BKVnk-Sde4ANWRSjwvpAySrwaAtOnEALw_wcB
--- vérifier si la formation pet être suivie à distance
-
-https://idmc.univ-lorraine.fr/courses/certification-data-scientist/
--- vérifier si la formation pet être suivie à distance
-
 You can discover my work here :
 
 ## Store-SQL
@@ -64,6 +47,24 @@ Topics Covered : Python, NumPy, Pandas, Matplotlib, Seaborn
 ## All projects ...
 
 [GitHub weblink - All projects](https://github.com/AimegaelBoudzoumou?tab=repositories)
+
+<!-- Future traning as CB : 
+https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/diplome-d-universite-DU/diplome-d-universite-KBVXM363/diplome-d-universite-sorbonne-data-analytics-KPMK3V7Z.html
+
+https://formations.umontpellier.fr/fr/formations/diplome-universite-niv-form-bac-4-UE/diplome-d-universite-big-data-data-science-et-analyse-des-risques-sous-python-JHVOG40I.html
+
+https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist#inscriptions
+-- vérifier si la formation pet être suivie à distance
+
+https://www.univ-montp3.fr/fr/formations/offre-de-formation/diplome-d-universite-niveau-master-UD/sciences-humaines-et-sociales-SHS/diplome-d-universite-data-scientist-JHKKIH5E.html 
+-- vérifier si la formation pet être suivie à distance
+
+https://professional-education-gl.mit.edu/mit-applied-data-science-course?&utm_source=google&utm_medium=search&utm_campaign=ADSB_Int_Search_Program_Broad_EU&campaign_id=15460219899&adgroup_id=131363090395&ad_id=566440175257&utm_target=kwd-27110958258&Keyword=data%20science%20program&placement=&gad_source=1&gclid=Cj0KCQiAst67BhCEARIsAKKdWOm-OuBuEGCLDQr8UwsamBe3KFSdnp0BKVnk-Sde4ANWRSjwvpAySrwaAtOnEALw_wcB
+-- vérifier si la formation pet être suivie à distance
+
+https://idmc.univ-lorraine.fr/courses/certification-data-scientist/
+-- vérifier si la formation pet être suivie à distance
+-->
 
 <!--
 4 aspects d'utilisation de SQL :
