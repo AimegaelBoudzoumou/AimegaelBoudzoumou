@@ -15,12 +15,15 @@ Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS.
 
 ## 2. Store-SQL
 Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
+
 [GitHub weblink - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
 ## 3. Le langage SQL pour la Data Science
+
 [GitHub weblink - Le langage SQL pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
 ## 4. Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord
+
 [GitHub weblink - Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
 
 ## 5. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
