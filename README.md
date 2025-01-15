@@ -31,6 +31,7 @@ Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnair
 
 ## 6. Python pour la Data Science - Analysez vos données
 Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
+
 [GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
 ## 7. Statistiques descriptives avec Python
