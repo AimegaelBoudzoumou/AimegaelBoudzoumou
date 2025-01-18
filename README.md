@@ -24,13 +24,13 @@ Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnair
 
 ## 4. Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord
 
-[GitHub weblink - Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+[GitHub weblink - Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord](https://github.com/AimegaelBoudzoumou/#)
 
 ## 5. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
-[GitHub weblink - Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+[GitHub weblink - Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)](https://github.com/AimegaelBoudzoumou/#)
 
 ## 5. Power BI - Many projects
-[Power BI - Many projects](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+[Power BI - Many projects]([https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course](https://github.com/AimegaelBoudzoumou/Power-BI-Many-Projects))
 
 ## 6. Python pour la Data Science - Analysez vos données
 Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
@@ -41,7 +41,7 @@ Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#)
 
 ## 8. Business Intelligence avec Python - Créez vos outils BI de A à Z
-[GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/Bash-Shell-Scripting-Tutorial-Full-Course)
+[GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/#)
 
 ## All projects ...
 [GitHub weblink - All projects](https://github.com/AimegaelBoudzoumou?tab=repositories)
