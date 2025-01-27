@@ -205,3 +205,11 @@ Nous:
 Conclure par une proposition de rencontre
 Formule de politesse
 -->
+
+<!--
+Data Integration : DBT, Apache Airflow, Data Factory, Talend
+
+Data Platform : Databriks, Snowflake Google Big Query, Snowflake
+
+Dataviz : Power BI, Qlik, Tableau Software
+-->
