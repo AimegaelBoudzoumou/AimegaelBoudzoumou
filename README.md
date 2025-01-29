@@ -213,3 +213,63 @@ Data Platform : Databriks, Snowflake Google Big Query, Snowflake
 
 Dataviz : Power BI, Qlik, Tableau Software
 -->
+
+<!--
+
+1/ Approche 1
+
+Etape 1 :
+
+Exporter le fichier CSV depuis l'interface de TMS.
+
+Etape 2 : 
+
+"Supprimer à la main, les colonnes non nécéssaires (au regard de la modélisation de mon projet Store-SQL)."
+"Importer le jeux de données obtenu, dans une base de données (environnement SGBD)."
+
+OU
+
+"Utilser Python/Pandas pour ne garder que les données (colonnes) nécessaires (au regard de la modélisation de mon projet Store-SQL)."
+"Exporter les données dans un fichier CSV"
+"Importer le jeux de données obtenu, dans une base de données (environnement SGBD)."
+
+OU
+
+"Depuis une interface SQL : appeler le fichier CSV et stocker ses donnés dans dans une base de données (environnement SGBD)."
+"Faire le Data Cleaning avec SQL."
+
+Etape 3 :
+
+Requêter la base : écrire mes requêtes d'extraction de données (répondre aux besoins fonctionnelles - partie Reporting).
+
+Exporter les résultats de ces requêtes (un requête pour chaque besoin fonctionnel) dans un fichier CSV ou Excel. Charger ce fichier en environnement Power BI. 
+
+Etape 4 : 
+
+Charger ce fichier en environnement Power BI. 
+
+Note : pas de néttoyage à effectuer
+
+Etape 5 : 
+
+Concevoir les rapports et tableaux de bord.
+
+2/ Approche 2
+
+Etape 1 :
+
+Exporter le fichier CSV depuis l'interface de TMS.
+
+Etape 2 :
+
+Charger ce fichier en environnement Power BI (plus précisémenent Power Query).
+
+Etape 3 :
+
+Nettoyer le fichier. 
+
+Etape 4 : 
+
+Concevoir les rapports et tableaux de bord.
+
+-->
