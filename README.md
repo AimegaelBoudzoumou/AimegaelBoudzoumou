@@ -17,32 +17,35 @@ Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS.
 Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
 
 [GitHub weblink - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
-
+<!--
 ## 3. Le langage SQL pour la Data Science
 
 [GitHub weblink - Le langage SQL pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
-
-## 4. Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord
+-->
+<!--## 4. Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord
 
 [GitHub weblink - Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord](https://github.com/AimegaelBoudzoumou/#)
-
-## 5. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
+-->
+## 3. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
 [GitHub weblink - Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)](https://github.com/AimegaelBoudzoumou/#)
 
+<!--
 ## 5. Power BI - Many projects
 [Power BI - Many projects](https://github.com/AimegaelBoudzoumou/Power-BI-Many-Projects)
+-->
 
-## 6. Python pour la Data Science - Analysez vos données
+## 4. Python pour la Data Science - Analysez vos données --
 Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 
 [GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
 
+<!--
 ## 7. Statistiques descriptives avec Python
 [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#)
 
 ## 8. Business Intelligence avec Python - Créez vos outils BI de A à Z
 [GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/#)
-
+-->
 ## All projects ...
 [GitHub weblink - All projects](https://github.com/AimegaelBoudzoumou?tab=repositories)
 
