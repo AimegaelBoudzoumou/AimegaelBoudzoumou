@@ -34,7 +34,7 @@ Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnair
 [Power BI - Many projects](https://github.com/AimegaelBoudzoumou/Power-BI-Many-Projects)
 -->
 
-## 4. Python pour la Data Science - Analysez vos données --
+## 4. Python pour la Data Science - Analysez vos données
 Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 
 [GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
