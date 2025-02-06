@@ -28,7 +28,7 @@ Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnair
 -->
 ## 3. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
 
-Topics Covered : Collecter les données (fichier, base de données, etc.). Préparer les données (Power Query). Mettre en place le modèle de données. Visualiser les données. Analuser les données (DAX). Publier et partager le rapport.
+Topics Covered : Power Query. Modèle de données. Visualisation. DAX. Publicatoin et partage de rapport.
 
 [GitHub weblink - Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)](https://github.com/AimegaelBoudzoumou/#)
 
