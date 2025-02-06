@@ -27,6 +27,9 @@ Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnair
 [GitHub weblink - Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord](https://github.com/AimegaelBoudzoumou/#)
 -->
 ## 3. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
+
+Topics Covered : Collecter les données (fichier, base de données, etc.). Préparer les données (Power Query). Mettre en place le modèle de données. Visualiser les données. Analuser les données (DAX). Publier et partager le rapport.
+
 [GitHub weblink - Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)](https://github.com/AimegaelBoudzoumou/#)
 
 <!--
