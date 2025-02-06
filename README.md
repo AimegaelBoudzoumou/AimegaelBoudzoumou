@@ -279,3 +279,12 @@ Etape 4 :
 Concevoir les rapports et tableaux de bord.
 
 -->
+
+<!--
+SQL Avancé
+- optimistion de base de données / optimisation de requête
+- subqueries
+- joins
+- cte
+- window funtion
+-->
