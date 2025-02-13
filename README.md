@@ -14,7 +14,7 @@ Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS.
 [GitHub weblink - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
 ## 2. Store-SQL
-Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL.
+Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI (tableaux de bord).
 
 [GitHub weblink - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
 <!--
