@@ -52,4 +52,4 @@ Python. NumPy. Pandas. Matplotlib. Seaborn.
 [GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/#)
 -->
 ## All projects ...
-[GitHub weblink - All projects](https://github.com/AimegaelBoudzoumou?tab=repositories)
+[Consulter](https://github.com/AimegaelBoudzoumou?tab=repositories)
