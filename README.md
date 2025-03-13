@@ -16,7 +16,7 @@ Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS.
 ## 2. Store-SQL
 Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI (tableaux de bord). Pyton (Web scraping)
 
-[GitHub weblink - Store-SQL](https://github.com/AimegaelBoudzoumou/Store-SQL)
+[Consulter](https://github.com/AimegaelBoudzoumou/Store-SQL)
 <!--
 ## 3. Le langage SQL pour la Data Science
 
