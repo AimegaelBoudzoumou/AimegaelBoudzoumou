@@ -9,28 +9,28 @@ You can discover my work here :
 
 ## 1. Data Analyst Bootcamp
 
-Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS.
+Topics Covered : MySQL and SQL. Power BI. Python. Pandas. Azur. AWS. <!-- Adding Excel later -->
 
-[GitHub weblink - Data Analyst Bootcamp](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
+[Consulter](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
 ## 2. Store-SQL
-Topics Covered : modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI (tableaux de bord). Pyton (Web scraping)
+Topics Covered : Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI (tableaux de bord). Pyton (Web scraping)
 
 [Consulter](https://github.com/AimegaelBoudzoumou/Store-SQL)
 <!--
 ## 3. Le langage SQL pour la Data Science
 
-[GitHub weblink - Le langage SQL pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
+[Consulter](https://github.com/AimegaelBoudzoumou/#)
 -->
 <!--## 4. Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord
 
-[GitHub weblink - Power BI Desktop - Traiter, analyser les données et concevoir des tableaux de bord](https://github.com/AimegaelBoudzoumou/#)
+[Consulter](https://github.com/AimegaelBoudzoumou/#)
 -->
 ## 3. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
 
 Topics Covered : Power Query. Modèle de données. Visualisation. DAX. Publication et partage de rapport.
 
-[GitHub weblink - Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)](https://github.com/AimegaelBoudzoumou/#)
+[Consulter](https://github.com/AimegaelBoudzoumou/#)
 
 <!--
 ## 5. Power BI - Many projects
@@ -40,7 +40,7 @@ Topics Covered : Power Query. Modèle de données. Visualisation. DAX. Publicati
 ## 4. Python pour la Data Science - Analysez vos données
 Topics Covered : Python. NumPy. Pandas. Matplotlib. Seaborn.
 
-[GitHub weblink - Python pour la Data Science](https://github.com/AimegaelBoudzoumou/#)
+[Consulter](https://github.com/AimegaelBoudzoumou/#)
 
 <!--
 ## 7. Statistiques descriptives avec Python
