@@ -45,6 +45,34 @@ Python. NumPy. Pandas. Matplotlib. Seaborn.
 [Consulter](https://github.com/AimegaelBoudzoumou/#)
 
 <!--
+```python
+def verifier_port(port_number):
+    """vérifier port
+    
+    Cette fonction permet de vérifier si le port pour Jupyter Notebook est valide
+    Argument : un nombre entier positif, les autres types types ne sont pas acceptés
+    Retourne une chaîne de caractères
+    """
+    
+    if (isinstance(port_number, int)):
+        
+        valid_ports = {8888, 8889, 8890}
+        
+        if port_number in valid_ports:
+            
+            return "Port valide"
+            
+        else:
+            
+            return "Port invalide"
+    
+    else:
+        
+        return "Port invalide"
+```
+-->
+
+<!--
 ## 7. Statistiques descriptives avec Python
 [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#)
 
