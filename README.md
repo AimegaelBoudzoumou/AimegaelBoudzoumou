@@ -73,6 +73,27 @@ def verifier_port(port_number):
 -->
 
 <!--
+```python
+def renommer_notebook(actual_notebook_name, desire_notebook_name):
+    """Cette fonction doit retourner le nouveau nom du notebook en respectant les bonnes 
+    pratiques, c'est-à-dire en remplaçant tous les espaces par des underscores et en 
+    ajoutant l'extension ".ipynb" à la fin du nom.
+    La méthode strip() suffit à vérifier si la chaîne est vide ou ne contient que des espaces.
+    
+    Arguments : prend en entrée le nom actuel d'un notebook (sous forme de chaîne) 
+    et un nouveau nom désiré (également sous forme de chaîne)
+    
+    Retourne le nouveau nom du notebook qui est une chaîne de caractères
+    
+    """
+    
+    if not desire_notebook_name.strip():
+        return "Untitled.ipynb"
+    
+    return desire_notebook_name.replace(' ', '_') + ".ipynb"
+```
+-->
+
 ## 7. Statistiques descriptives avec Python
 [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#)
 
