@@ -94,6 +94,41 @@ def renommer_notebook(actual_notebook_name, desire_notebook_name):
 ```
 -->
 
+<!--
+```python
+def generer_raccourcis(raccouris):
+    """Cette fonction prend en entrée une liste de raccourcis-clavier (sous forme de chaîne) et retourne un dictionnaire où chaque raccourci est associé à une description de son action
+     Argument : une liste non vide
+     Retourne un dictionnaire contenant comme clé une raccourci clavier et comme valeur son explication
+     """
+     
+     # dictionnaire de base contenant les clé (raccourcis-clavier) et valeurs (significations des raccourcis-clavier)
+     dictionnaire_de_base = {
+        "B": "insère une cellule après la cellule sélectionnée",
+        "A": "insère une cellule avant celle-ci",
+        "F": "ouvre une fenêtre qui permet de chercher-remplacer du texte dans l’ensemble de votre notebook"
+    }
+    
+    # dictionnaire à retourer peu importe la situation :
+    dictionnaire_resultat = {}
+    
+    # vérifier que la liste raccouris n'est pas vide:
+    if raccouris:
+        for element in raccouris:
+            # on vérifie que l'élément est une chaîne de caractères
+            if isinstance(element, str):
+                if element in dictionnaire_de_base:
+                    dictionnaire_resultat[element] = dictionnaire_de_base[element]
+
+    return dictionnaire_resultat
+
+    """
+    Remarque: Pensez à gérer le cas où la liste contient des éléments qui ne sont pas des chaînes de caractères, comme vous l'avez fait, mais vous pourriez simplifier cette vérification en utilisant une compréhension de dictionnaire.
+    Ressources : https://www.expertpython.fr/post/ma%C3%AEtriser-les-compr%C3%A9hensions-en-python-listes-tuples-et-dictionnaires#:~:text=La%20compr%C3%A9hension%20de%20dictionnaire%20est,des%20%C3%A9l%C3%A9ments%20d%27un%20dictionnaire. 
+    """
+```
+-->
+
 ## 7. Statistiques descriptives avec Python
 [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#)
 
