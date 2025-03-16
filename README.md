@@ -42,7 +42,7 @@ Power Query. Modèle de données. Visualisation. DAX. Publication et partage de 
 ## 4. Python pour la Data Science - Analysez vos données
 Python. NumPy. Pandas. Matplotlib. Seaborn.
 
-[Consulter](https://github.com/AimegaelBoudzoumou/#)
+[Consulter](https://github.com/AimegaelBoudzoumou/Python-pour-la-Data-Science/tree/main)
 
 <!--
 ```python
