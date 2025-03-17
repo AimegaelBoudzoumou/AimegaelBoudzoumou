@@ -44,10 +44,10 @@ Python. NumPy. Pandas. Matplotlib. Seaborn.
 
 [Consulter](https://github.com/AimegaelBoudzoumou/Python-pour-la-Data-Science/tree/main)
 
-## 7. Statistiques descriptives avec Python
+## 5. Statistiques descriptives avec Python
 <!-- [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#) -->
 
-## 8. Business Intelligence avec Python - Créez vos outils BI de A à Z
+## 6. Business Intelligence avec Python - Créez vos outils BI de A à Z
 <!-- [GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/#) -->
 
 ## All projects ...
