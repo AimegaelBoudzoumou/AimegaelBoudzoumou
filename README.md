@@ -9,12 +9,12 @@ You can discover my work here :
 
 ## 1. Data Analyst Bootcamp
 
-SQL/MySQL. Power BI. Python. Pandas. Azur. AWS. <!-- Adding Excel later -->
+SQL/MySQL. Power BI. Python. Pandas. Azur. AWS. <!-- Adding later : Excel, AWS, Azure-->
 
 [Consulter](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
 ## 2. Store-SQL
-Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI (tableaux de bord). Pyton (Web scraping).
+Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI (tableaux de bord). Python (Web Scraping).
 
 [Consulter](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
