@@ -8,7 +8,7 @@
 You can discover my work here :
 
 ## 1. Projet Store
-Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL-Oracle. PL/SQL. Power BI. Python/Pandas.
+Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL-Oracle. PL/SQL. Power BI. Python. Pandas.
 
 [Consulter](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
