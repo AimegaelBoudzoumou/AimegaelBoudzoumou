@@ -7,16 +7,21 @@
 
 You can discover my work here :
 
-## 1. Data Analyst Bootcamp
+## 1. Projet Store
+Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI. Python/Pandas.
+[Consulter](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
+## 2. Formation : Data Analyst Bootcamp
 SQL/MySQL. Power BI. Python. Pandas. <!-- Adding later : Excel, AWS, Azure-->
-
 [Consulter](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
-## 2. Store-SQL
-Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI. Python/Pandas.
+## 3. Livre : Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
+Power Query. Modèle de données. Visualisation. DAX. Publication et partage de rapport.
+<!-- [Consulter](#) -->
 
-[Consulter](https://github.com/AimegaelBoudzoumou/Store-SQL)
+## 4. Livre : Python pour la Data Science - Analysez vos données
+Python. NumPy. Pandas. Matplotlib. Seaborn.
+[Consulter](https://github.com/AimegaelBoudzoumou/Python-pour-la-Data-Science/tree/main)
 
 <!--
 ## 3. Le langage SQL pour la Data Science
@@ -28,10 +33,6 @@ Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). S
 [Consulter](https://github.com/AimegaelBoudzoumou/#)
 -->
 
-## 3. Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
-
-Power Query. Modèle de données. Visualisation. DAX. Publication et partage de rapport.
-
 <!-- [Consulter](https://github.com/AimegaelBoudzoumou/#) -->
 
 <!--
@@ -39,16 +40,15 @@ Power Query. Modèle de données. Visualisation. DAX. Publication et partage de 
 [Power BI - Many projects](https://github.com/AimegaelBoudzoumou/Power-BI-Many-Projects)
 -->
 
-## 4. Python pour la Data Science - Analysez vos données
-Python. NumPy. Pandas. Matplotlib. Seaborn.
-
-[Consulter](https://github.com/AimegaelBoudzoumou/Python-pour-la-Data-Science/tree/main)
-
+<!--
 ## 5. Statistiques descriptives avec Python
-<!-- [GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#) -->
+[GitHub weblink - Statistiques descriptives avec Python](https://github.com/AimegaelBoudzoumou/#) 
+-->
 
+<!--
 ## 6. Business Intelligence avec Python - Créez vos outils BI de A à Z
-<!-- [GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/#) -->
+[GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/#) 
+-->
 
-## All projects ...
+## Autres ressources
 [Consulter](https://github.com/AimegaelBoudzoumou?tab=repositories)
