@@ -28,6 +28,11 @@ Python. NumPy. Pandas. Matplotlib. Seaborn.
 [Consulter](https://github.com/AimegaelBoudzoumou/Python-pour-la-Data-Science/tree/main)
 
 <!--
+## Autres ressources
+[Consulter](https://github.com/AimegaelBoudzoumou?tab=repositories)
+-->
+
+<!--
 ## 3. Le langage SQL pour la Data Science
 [Consulter](https://github.com/AimegaelBoudzoumou/#)
 -->
