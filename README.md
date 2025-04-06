@@ -20,7 +20,7 @@ SQL-MySQL. Power BI. Python. Pandas. <!-- Adding later : Excel, AWS, Azure-->
 ## 3. Livre : Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
 Power Query. Modèle de données. Visualisation. DAX. Publication et partage de rapport.
 
-<!-- [Consulter](#) -->
+[En coours de rédaction](#)
 
 ## 4. Livre : Python pour la Data Science - Analysez vos données
 Python. NumPy. Pandas. Matplotlib. Seaborn.
@@ -57,4 +57,11 @@ Python. NumPy. Pandas. Matplotlib. Seaborn.
 <!--
 ## 6. Business Intelligence avec Python - Créez vos outils BI de A à Z
 [GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/#) 
+-->
+
+<!--
+Profil CB :
+- Expérience de travail en tant que Data analyst
+- Tuto Linux, PL/SQL
+- Projets et ou Formations : dbt, snowflake, Big Query, Alteryx, Airflow, Dataiku, Cloud, Machine Leaning, Data Scientist, etc. 
 -->
