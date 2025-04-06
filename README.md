@@ -20,7 +20,7 @@ SQL-MySQL. Power BI. Python. Pandas. <!-- Adding later : Excel, AWS, Azure-->
 ## 3. Livre : Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
 Power Query. Modèle de données. Visualisation. DAX. Publication et partage de rapport.
 
-[En coours de rédaction](#)
+[En cours de rédaction...](#)
 
 ## 4. Livre : Python pour la Data Science - Analysez vos données
 Python. NumPy. Pandas. Matplotlib. Seaborn.
