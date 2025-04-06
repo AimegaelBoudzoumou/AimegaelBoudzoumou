@@ -14,7 +14,7 @@ SQL/MySQL. Power BI. Python. Pandas. <!-- Adding later : Excel, AWS, Azure-->
 [Consulter](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
 ## 2. Store-SQL
-Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI (tableaux de bord). Python (Web Scraping).
+Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI. Python/Pandas.
 
 [Consulter](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
