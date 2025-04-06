@@ -8,12 +8,12 @@
 You can discover my work here :
 
 ## 1. Projet Store
-Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI. Python/Pandas.
+Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL-Oracle. PL/SQL. Power BI. Python/Pandas.
 
 [Consulter](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
 ## 2. Formation : Data Analyst Bootcamp
-SQL/MySQL. Power BI. Python. Pandas. <!-- Adding later : Excel, AWS, Azure-->
+SQL-MySQL. Power BI. Python. Pandas. <!-- Adding later : Excel, AWS, Azure-->
 
 [Consulter](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
