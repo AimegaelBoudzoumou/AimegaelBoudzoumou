@@ -58,6 +58,3 @@ Python. NumPy. Pandas. Matplotlib. Seaborn.
 ## 6. Business Intelligence avec Python - Créez vos outils BI de A à Z
 [GitHub weblink - Business Intelligence avec Python](https://github.com/AimegaelBoudzoumou/#) 
 -->
-
-## Autres ressources
-[Consulter](https://github.com/AimegaelBoudzoumou?tab=repositories)
