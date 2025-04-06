@@ -9,7 +9,7 @@ You can discover my work here :
 
 ## 1. Data Analyst Bootcamp
 
-SQL/MySQL. Power BI. Python. Pandas. Azur. AWS. <!-- Adding later : Excel, AWS, Azure-->
+SQL/MySQL. Power BI. Python. Pandas. <!-- Adding later : Excel, AWS, Azure-->
 
 [Consulter](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
