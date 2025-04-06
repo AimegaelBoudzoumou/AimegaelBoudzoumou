@@ -9,18 +9,22 @@ You can discover my work here :
 
 ## 1. Projet Store
 Modélisation de données relationnelles (MCD, MLD, Dictionnaire de données). SQL. PL/SQL. Power BI. Python/Pandas.
+
 [Consulter](https://github.com/AimegaelBoudzoumou/Store-SQL)
 
 ## 2. Formation : Data Analyst Bootcamp
 SQL/MySQL. Power BI. Python. Pandas. <!-- Adding later : Excel, AWS, Azure-->
+
 [Consulter](https://github.com/AimegaelBoudzoumou/Data-Analyst-Bootcamp)
 
 ## 3. Livre : Power BI Desktop - Reporting et analyse de données au quotidien (3e édition)
 Power Query. Modèle de données. Visualisation. DAX. Publication et partage de rapport.
+
 <!-- [Consulter](#) -->
 
 ## 4. Livre : Python pour la Data Science - Analysez vos données
 Python. NumPy. Pandas. Matplotlib. Seaborn.
+
 [Consulter](https://github.com/AimegaelBoudzoumou/Python-pour-la-Data-Science/tree/main)
 
 <!--
